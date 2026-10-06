@@ -1,1 +1,1 @@
-# wed-ex1
+# Course 1 - Final Project
